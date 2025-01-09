@@ -1,0 +1,49 @@
+body {
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+    margin: 0;
+}
+.container {
+    min-height: 100vh;
+    padding: 4rem;
+    background: #222;
+}
+.my-name {
+    margin: 1rem 0;
+    font-size: max(7.5vw, 2.2rem);
+    font-family: "Jersey 15", serif;
+    color: #067bc2;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.fe {
+    font-family: "Jersey 15", serif;
+    font-style: normal;
+    color: #067bc2;
+    font-size: max(1.9rem, 1.66vw);
+
+}
+
+.overview {
+    font-size: 1.2rem;
+}
+
+.social {
+    padding: 12px 0;
+    margin: 0;
+    
+}
+.social a {
+
+    background-color: azure;
+    display: inline-block;
+    text-decoration: none;
+    padding: 12px 30px;
+    color: #067bc2;
+    border: 1px solid black;
+    border-radius: 4px;
+    min-width: 150px;
+    text-align: center;
+}
